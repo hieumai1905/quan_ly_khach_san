@@ -1,0 +1,44 @@
+﻿@model HotelManagements.Models.TDangKy
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_Layout1.cshtml";
+}
+
+<h1>Edit</h1>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="MaDk" />
+            <div class="form-group">
+                <label asp-for="MaKh" class="control-label">Mã Khách Hàng</label>
+                <select asp-for="MaKh" class="form-control" asp-items="ViewBag.MaKh"></select>
+                <span asp-validation-for="MaKh" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="SoPhong" class="control-label">Số Phòng</label>
+                <select asp-for="SoPhong" class="form-control" asp-items="ViewBag.SoPhong"></select>
+                <span asp-validation-for="SoPhong" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NgayVao" class="control-label">Ngày Vào</label>
+                <input asp-for="NgayVao" class="form-control" />
+                <span asp-validation-for="NgayVao" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NgayRa" class="control-label">Ngày Ra</label>
+                <input asp-for="NgayRa" class="form-control" />
+                <span asp-validation-for="NgayRa" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>

@@ -1,0 +1,54 @@
+﻿@model IEnumerable<HotelManagements.Models.TDangKy>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout1.cshtml";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Ngày Vào
+            </th>
+            <th>
+                Ngày Ra
+            </th>
+            <th>
+                Mã Khách Hàng
+            </th>
+            <th>
+                Số Phòng
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.NgayVao)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NgayRa)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MaKhNavigation.MaKh)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SoPhongNavigation.SoPhong)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.MaDk">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.MaDk">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.MaDk">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,91 @@
+﻿@model IEnumerable<HotelManagements.Models.TChiTietKh>
+@using HotelManagements.Models
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout1.cshtml";
+    List<TChiTietKh> customers = new List<TChiTietKh>();
+    //if(ViewBag.Customers != null)
+    //{
+    //    customers 
+    //}
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Tên Khách Hàng
+            </th>
+            <th>
+                Ngày Sinh
+            </th>
+            <th>
+                Phái
+            </th>
+            <th>
+                Địa Chỉ
+            </th>
+            <th>
+                Điện Thoại
+            </th>
+            <th>
+                Điểm Tích Lũy
+            </th>
+            <th>
+                Thẻ Căn Cước
+            </th>
+            <th>
+                Loại Khách Hàng
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in (List<TChiTietKh>)ViewBag.Customers) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.TenKh)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NgaySinh)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Phai)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DiaChi)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DienThoai)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DiemTichLuy)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TheCanCuoc)
+            </td>
+            <td>
+                @item.LoaiKhNavigation?.LoaiKh
+            </td>
+            <td>
+                <a asp-action="Update" asp-route-id="@item.MaKh.Trim()">Edit</a> |
+                <a onclick="deleteCustomer('@item.MaKh.Trim()')">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+
+<script>
+    function deleteCustomer(id){
+        alert(id);
+        if(confirm("Bạn có chắc chắn xóa khách hàng này?")===true){
+            window.location.href = "/Admin/Delete/"+id;
+        }
+    }
+</script>

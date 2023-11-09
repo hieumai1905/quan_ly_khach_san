@@ -1,0 +1,565 @@
+{
+  "Files": [
+    {
+      "Id": "H:\\rac\\HotelManagements\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\HotelManagements.bundle.scp.css",
+      "PackagePath": "staticwebassets\\HotelManagements.bundle.scp.css"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\assets\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\assets\\css\\custom.css",
+      "PackagePath": "staticwebassets\\assets\\css\\custom.css"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\assets\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font-awesome.css"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\assets\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\assets\\fonts\\glyphicons-halflings-regulard41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\glyphicons-halflings-regulard41d.eot"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\assets\\img\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo.png"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\assets\\js\\custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\custom.js"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\assets\\js\\jquery-1.10.2.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-1.10.2.js"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\css\\ie_style.css",
+      "PackagePath": "staticwebassets\\css\\ie_style.css"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\css\\images\\1page-img1.png",
+      "PackagePath": "staticwebassets\\css\\images\\1page-img1.png"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\css\\images\\2page-img1.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\2page-img1.jpg"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\css\\images\\2page-img10.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\2page-img10.jpg"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\css\\images\\2page-img11.png",
+      "PackagePath": "staticwebassets\\css\\images\\2page-img11.png"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\css\\images\\2page-img12.png",
+      "PackagePath": "staticwebassets\\css\\images\\2page-img12.png"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\css\\images\\2page-img13.png",
+      "PackagePath": "staticwebassets\\css\\images\\2page-img13.png"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\css\\images\\2page-img2.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\2page-img2.jpg"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\css\\images\\2page-img3.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\2page-img3.jpg"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\css\\images\\2page-img4.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\2page-img4.jpg"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\css\\images\\2page-img5.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\2page-img5.jpg"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\css\\images\\2page-img6.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\2page-img6.jpg"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\css\\images\\2page-img7.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\2page-img7.jpg"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\css\\images\\2page-img8.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\2page-img8.jpg"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\css\\images\\2page-img9.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\2page-img9.jpg"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\css\\images\\3page-img1.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\3page-img1.jpg"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\css\\images\\3page-img10.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\3page-img10.jpg"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\css\\images\\3page-img11.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\3page-img11.jpg"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\css\\images\\3page-img12.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\3page-img12.jpg"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\css\\images\\3page-img13.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\3page-img13.jpg"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\css\\images\\3page-img2.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\3page-img2.jpg"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\css\\images\\3page-img3.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\3page-img3.jpg"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\css\\images\\3page-img4.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\3page-img4.jpg"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\css\\images\\3page-img5.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\3page-img5.jpg"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\css\\images\\3page-img6.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\3page-img6.jpg"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\css\\images\\3page-img7.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\3page-img7.jpg"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\css\\images\\3page-img8.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\3page-img8.jpg"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\css\\images\\3page-img9.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\3page-img9.jpg"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\css\\images\\4page-img1.png",
+      "PackagePath": "staticwebassets\\css\\images\\4page-img1.png"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\css\\images\\5page-img1.png",
+      "PackagePath": "staticwebassets\\css\\images\\5page-img1.png"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\css\\images\\body-bg.gif",
+      "PackagePath": "staticwebassets\\css\\images\\body-bg.gif"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\css\\images\\bull1.gif",
+      "PackagePath": "staticwebassets\\css\\images\\bull1.gif"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\css\\images\\button-bg.gif",
+      "PackagePath": "staticwebassets\\css\\images\\button-bg.gif"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\css\\images\\button-side.gif",
+      "PackagePath": "staticwebassets\\css\\images\\button-side.gif"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\css\\images\\content-bg.png",
+      "PackagePath": "staticwebassets\\css\\images\\content-bg.png"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\css\\images\\gallery-wrapper.png",
+      "PackagePath": "staticwebassets\\css\\images\\gallery-wrapper.png"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\css\\images\\header-bg-small.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\header-bg-small.jpg"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\css\\images\\header-bg-top.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\header-bg-top.jpg"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\css\\images\\header-bg.png",
+      "PackagePath": "staticwebassets\\css\\images\\header-bg.png"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\css\\images\\header-bg1.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\header-bg1.jpg"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\css\\images\\header-bg1.png",
+      "PackagePath": "staticwebassets\\css\\images\\header-bg1.png"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\css\\images\\header-box-small.png",
+      "PackagePath": "staticwebassets\\css\\images\\header-box-small.png"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\css\\images\\img-empty.png",
+      "PackagePath": "staticwebassets\\css\\images\\img-empty.png"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\css\\images\\img-wrapper.png",
+      "PackagePath": "staticwebassets\\css\\images\\img-wrapper.png"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\css\\images\\line-ver.gif",
+      "PackagePath": "staticwebassets\\css\\images\\line-ver.gif"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\css\\images\\nav-bg1.png",
+      "PackagePath": "staticwebassets\\css\\images\\nav-bg1.png"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\css\\images\\nav-bg2.png",
+      "PackagePath": "staticwebassets\\css\\images\\nav-bg2.png"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\css\\images\\next.png",
+      "PackagePath": "staticwebassets\\css\\images\\next.png"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\css\\images\\prev.png",
+      "PackagePath": "staticwebassets\\css\\images\\prev.png"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\css\\images\\spacer.gif",
+      "PackagePath": "staticwebassets\\css\\images\\spacer.gif"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\css\\layout.css",
+      "PackagePath": "staticwebassets\\css\\layout.css"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\js\\ie_png.js",
+      "PackagePath": "staticwebassets\\js\\ie_png.js"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\js\\maxheight.js",
+      "PackagePath": "staticwebassets\\js\\maxheight.js"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "H:\\rac\\HotelManagements\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.HotelManagements.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.HotelManagements.props",
+      "PackagePath": "build\\HotelManagements.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.HotelManagements.props",
+      "PackagePath": "buildMultiTargeting\\HotelManagements.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.HotelManagements.props",
+      "PackagePath": "buildTransitive\\HotelManagements.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

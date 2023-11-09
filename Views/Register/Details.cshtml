@@ -1,0 +1,43 @@
+﻿@model HotelManagements.Models.TDangKy
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout1.cshtml";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>TDangKy</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            Ngày Vào
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.NgayVao)
+        </dd>
+        <dt class = "col-sm-2">
+            Ngày Ra
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.NgayRa)
+        </dd>
+        <dt class = "col-sm-2">
+            Mã Khách Hàng
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.MaKhNavigation.MaKh)
+        </dd>
+        <dt class = "col-sm-2">
+            Số Phòng
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.SoPhongNavigation.SoPhong)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.MaDk">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
